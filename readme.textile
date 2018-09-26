@@ -1,4 +1,10 @@
-h1. An Introduction to Enlive
+h1. This repo is unmaintained and broken
+
+If you arrived here because you were looking for an Enlive tutorial and this was the top hit on Google then:
+* If you know Clojure then you might want to fix things by submitting a PR.
+* If you are new to Clojure you might want to go straight back to google, which will help push this tutorial down the rankings and allow a working tutorial to rise above it.
+
+h2. An Introduction to Enlive
 
 Though "Christophe Grand's Enlive":http://github.com/cgrand/enlive has been around for sometime now the Clojure community has been slow to embrace this useful library. I believe this is due simply to the lack of good introductory documentation based on real examples. Please let me know if you find this tutorial useful or helpful in any way. Feel free to suggest additions, corrections, and improvements (even better fork the repo and send me a patch).
 
